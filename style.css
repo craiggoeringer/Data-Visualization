@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  height: 100vh;
+}
+
+svg {
+  display: block;
+  background-color: whitesmoke;
+}
+
+.county:hover {
+  fill: grey;
+}
+
+#header {
+  text-align: center;
+}
+
+#canvas {
+  min-width: 1200px;
+  min-height: 700px;
+}
+
+#tooltip {
+  visibility: hidden;
+}
