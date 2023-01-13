@@ -1,0 +1,29 @@
+html{
+  background-color: purple
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+#tooltip{
+  position: absolute;
+  background-color: #e36f1c;
+  color: white;
+  font-size: 15px;
+  max-width: 200px;
+  border-radius: 2%;
+  padding: 5px;
+  border: 1px solid gray;
+	border-radius: 2px;
+	background-color: maroon;
+}
+
+svg {
+	border: 1px solid white;
+	position: fixed;
+}
+
+#legend{
+  position: absolute;
+}
